@@ -59,3 +59,6 @@ Powered by modular frameworks, literary inspiration, and collaborative innovatio
 
 > “We do not create horror. We reveal its structure.”  
 > — *Modular Horror Studio Manifesto*
+>
+> All creative content (prompts, loops, devices, fragments) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+You are free to remix, narrate, and redistribute with attribution and share-alike terms.
