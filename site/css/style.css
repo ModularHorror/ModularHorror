@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fdfcf8;
+  background-image: url('../assets/paper-texture.png');
+  background-size: cover;
+  font-family: 'Special Elite', cursive;
+  color: #2a2a2a;
+}
+
+main.journal {
+  max-width: 700px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.85);
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  border-left: 6px solid #ffcc00;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+section.act p {
+  margin: 1rem 0;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+section.act em {
+  font-style: italic;
+  color: #444;
+}
+
+.magnet {
+  background-color: #fff8c6;
+  padding: 0.5rem;
+  border-left: 4px solid #ffcc00;
+  font-weight: bold;
+  font-family: 'Courier New', monospace;
+}
