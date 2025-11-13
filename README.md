@@ -1,6 +1,6 @@
 # Modular Horror
 
-Welcome to **Modular Horror**, a creative studio for scalable dread.
+Welcome to **Modular Horror***, a creative studio for scalable dread.
 
 We publish weekly horror drops built from modular components—designed for narration, remixing, and live collaboration. This repository contains the anatomy of horror: engineered prompts, narrative loops, psychological devices, and evocative fragments.
 
